@@ -1,0 +1,208 @@
+ANSF Appropriate Use of Force Decreasing 
+ANSF Appropriate Use of Force Increasing 
+ANSF Avg Professionalism Skill Discipline and Morale Decreasing 
+ANSF Avg Professionalism Skill Discipline and Morale Increasing 
+ANSF Capacity Priorities and Effectiveness Decreasing 
+ANSF Capacity Priorities and Effectiveness Increasing 
+ANSF Corruption and Tribal Favoritism Decreasing 
+ANSF Corruption and Tribal Favoritism Increasing 
+ANSF Funding Adequacy Decreasing
+ANSF Funding Adequacy Increasing 
+ANSF Institutional and Execution Capacity Decreasing 
+ANSF Institutional and Execution Capacity Increasing 
+ANSF Manpower Recruiting and Retention Decreasing 
+ANSF Manpower Recruiting and Retention Increasing 
+ANSF Training and Mentoring Decreasing 
+ANSF Training and Mentoring Increasing 
+ANSF Unit Leadership and Tactical Capacity Decreasing 
+ANSF Unit Leadership and Tactical Capacity Increasing 
+Ability to Move People and Goods Rapidly Decreasing 
+Ability to Move People and Goods Rapidly Increasing 
+Ability to Reconcile Religious Ideology Tribal Structures with Govt Path Decreasing 
+Ability to Reconcile Religious Ideology Tribal Structures with Govt Path Increasing 
+Average Connectedness of Population Decreasing 
+Average Connectedness of Population Increasing 
+Breadth of Coalition and Support Decreasing 
+Breadth of Coalition and Support Increasing 
+Central Govt Institutional and Execution Capacity Decreasing 
+Central Govt Institutional and Execution Capacity Increasing 
+Civilian Services SWET Healthcare Education Decreasing 
+Civilian Services SWET Healthcare Education Increasing 
+Coalition Adjustment of Approach to Fit Afghan Decreasing 
+Coalition Adjustment of Approach to Fit Afghan Increasing 
+Coalition Appropriate Balance of Effort and Force Decreasing 
+Coalition Appropriate Balance of Effort and Force Increasing 
+Coalition Avg COIN Experience and Skill Decreasing 
+Coalition Avg COIN Experience and Skill Increasing 
+Coalition COIN Support Strategy and Unity Decreasing 
+Coalition COIN Support Strategy and Unity Increasing 
+Coalition DevOps ANSF Advisory and Aid Decreasing 
+Coalition DevOps ANSF Advisory and Aid Increasing 
+Coalition DevOps Govt Advisory and Aid Decreasing 
+Coalition DevOps Govt Advisory and Aid Increasing 
+Coalition DevOps Infrastructure Services Econ Advisory and Aid Decreasing 
+Coalition DevOps Infrastructure Services Econ Advisory and Aid Increasing 
+Coalition Execution Capacity and Priorities Decreasing 
+Coalition Execution Capacity and Priorities Increasing 
+Coalition Knowledge and Understing of Social Structures Decreasing 
+Coalition Knowledge and Understing of Social Structures Increasing 
+Coalition Strategic Communication and IO Decreasing 
+Coalition Strategic Communication and IO Increasing 
+Coalition Visibility to Population Decreasing 
+Coalition Visibility to Population Increasing 
+Coalition and Homeland Acceptance of Afghan Methods Decreasing 
+Coalition and Homeland Acceptance of Afghan Methods Increasing 
+Coordination Among Insurgent Factions Decreasing 
+Coordination Among Insurgent Factions Increasing 
+Counter Narcotics and Crime Ops Decreasing 
+Counter Narcotics and Crime Ops Increasing 
+Criminal and Trafficking Capability and Coercion Decreasing 
+Criminal and Trafficking Capability and Coercion Increasing 
+Cultural Erosion and Displacement Decreasing 
+Cultural Erosion and Displacement Increasing 
+Duration of Operation Decreasing 
+Duration of Operation Increasing 
+Ethnic and Tribal Rivalry Decreasing 
+Ethnic and Tribal Rivalry Increasing 
+Expectations for Security Services and Employment Decreasing 
+Expectations for Security Services and Employment Increasing 
+Fear of Govt ANSF and Coalition Repercussions Decreasing 
+Fear of Govt ANSF and Coalition Repercussions Increasing 
+Fear of Insurgent Attack and Repercussions Decreasing 
+Fear of Insurgent Attack and Repercussions Increasing 
+Fraction of Workforce And Agric Legit vs Illegit Decreasing 
+Fraction of Workforce And Agric Legit vs Illegit Increasing 
+Funding and Material Support to Insurgents Decreasing 
+Funding and Material Support to Insurgents Increasing 
+Govt Funding Adequacy Decreasing 
+Govt Funding Adequacy Increasing 
+Govt Integration of Local Tribal Structures Decreasing 
+Govt Integration of Local Tribal Structures Increasing 
+Govt Professionalism Policy Quality and Fairness Decreasing 
+Govt Professionalism Policy Quality and Fairness Increasing 
+Govt Security Policy Quality and Investment Decreasing 
+Govt Security Policy Quality and Investment Increasing 
+Govt Training Mentoring Vetting and Hiring Decreasing 
+Govt Training Mentoring Vetting and Hiring Increasing 
+Govt Workforce Skill and Avail Decreasing 
+Govt Workforce Skill and Avail Increasing 
+Govt and ANSF Strategic Communication and IO Decreasing 
+Govt and ANSF Strategic Communication and IO Increasing 
+Govt and Contractor Corruption and Tribal Favoritism Decreasing 
+Govt and Contractor Corruption and Tribal Favoritism Increasing 
+Havens and Ability to Operate Decreasing 
+Havens and Ability to Operate Increasing 
+ISR and Open Source Ops Decreasing 
+ISR and Open Source Ops Increasing 
+IllegitAgric Production Trade and Employment Decreasing 
+IllegitAgric Production Trade and Employment Increasing 
+Infr Services Economic Policy and Execution and Perceived Fairness Decreasing 
+Infr Services Economic Policy and Execution and Perceived Fairness Increasing 
+Infrastructure Development Adequacy and Sustainment Decreasing 
+Infrastructure Development Adequacy and Sustainment Increasing 
+Insurgent Capacity Priorities and Effectiveness Decreasing 
+Insurgent Capacity Priorities and Effectiveness Increasing 
+Insurgent Damages and Casualties Decreasing 
+Insurgent Damages and Casualties Increasing 
+Insurgent Leadership Training Skill and Experience Decreasing 
+Insurgent Leadership Training Skill and Experience Increasing 
+Insurgent Offensives and Presence Clear and Hold Decreasing 
+Insurgent Offensives and Presence Clear and Hold Increasing 
+Insurgent Provision Of Govt and Services Decreasing 
+Insurgent Provision Of Govt and Services Increasing 
+Insurgent Recruiting Retention Manpower and ISR Decreasing 
+Insurgent Recruiting Retention Manpower and ISR Increasing 
+Insurgent Strategic Communication and IO and Affiliation with Population Decreasing 
+Insurgent Strategic Communication and IO and Affiliation with Population Increasing 
+Insurgent Targeted Attacks on Progress and Support for Govt Decreasing 
+Insurgent Targeted Attacks on Progress and Support for Govt Increasing 
+Insurgent Terrain Advantage Decreasing 
+Insurgent Terrain Advantage Increasing 
+Legit Agric Production Decreasing 
+Legit Agric Production Increasing 
+Legit Economic Activity Trade and Employment Decreasing 
+Legit Economic Activity Trade and Employment Increasing 
+Legit Other Production and Services Non Agric Decreasing 
+Legit Other Production and Services Non Agric Increasing 
+Legit vs Illegit Relative Economic Opportunity Decreasing 
+Legit vs Illegit Relative Economic Opportunity Increasing 
+Likelihood of Crime and Violence and Insurgent Support for Payment Decreasing 
+Likelihood of Crime and Violence and Insurgent Support for Payment Increasing 
+Media Sensationalism Bias Decreasing 
+Media Sensationalism Bias Increasing 
+Narcotics and Criminal Activity Levels Decreasing 
+Narcotics and Criminal Activity Levels Increasing 
+Neutral or On the Fence Decreasing 
+Neutral or On the Fence Increasing 
+Outside Support and Enablement of Insurgents Decreasing 
+Outside Support and Enablement of Insurgents Increasing 
+Overall Govt Reach Execution Capacity and Investment Decreasing 
+Overall Govt Reach Execution Capacity and Investment Increasing 
+Perceived Damages and Use of Force by Govt and Coalition Decreasing 
+Perceived Damages and Use of Force by Govt and Coalition Increasing 
+Perceived Damages and Use of Force by Insurgent Decreasing 
+Perceived Damages and Use of Force by Insurgent Increasing 
+Perceived Security Decreasing 
+Perceived Security Increasing 
+Perception Of Govt Strength and Intent Decreasing 
+Perception Of Govt Strength and Intent Increasing 
+Perception of Coalition Intent and Commitment Decreasing 
+Perception of Coalition Intent and Commitment Increasing 
+Perception of Insurgent Strength and Intent Decreasing 
+Perception of Insurgent Strength and Intent Increasing 
+Policing and Security Ops Hold Decreasing 
+Policing and Security Ops Hold Increasing 
+Population Basic Needs Service Levels and Employment Decreasing 
+Population Basic Needs Service Levels and Employment Increasing 
+Potential Attractiveness of Govt vs Insurgent Path Decreasing 
+Potential Attractiveness of Govt vs Insurgent Path Increasing 
+Private Sector Capital management Investment and Spending Decreasing 
+Private Sector Capital management Investment and Spending Increasing 
+Private Sector Workforce Skill and Avail Decreasing 
+Private Sector Workforce Skill and Avail Increasing 
+Provide Humanitarian Relief Decreasing 
+Provide Humanitarian Relief Increasing 
+ROL Policy Execution and Perceived Fairness Decreasing 
+ROL Policy Execution and Perceived Fairness Increasing 
+Recognition and Engagement to Integrate Tribal Structures and Beliefs Decreasing 
+Recognition and Engagement to Integrate Tribal Structures and Beliefs Increasing 
+Relative Message Impact Govt vs Ins Decreasing 
+Relative Message Impact Govt vs Ins Increasing 
+Relative Message Quality Govt vs Ins Decreasing 
+Relative Message Quality Govt vs Ins Increasing 
+Relative Popular Support and Tolerance Govt vs Insurgents Decreasing 
+Relative Popular Support and Tolerance Govt vs Insurgents Increasing 
+Relative WOM Message Amplification Govt vs Ins Decreasing 
+Relative WOM Message Amplification Govt vs Ins Increasing 
+Resource Levels Military and Civilian Forces Aid Levels Decreasing 
+Resource Levels Military and Civilian Forces Aid Levels Increasing 
+Satisfaction with Gains in Security Services and Employment Decreasing 
+Satisfaction with Gains in Security Services and Employment Increasing 
+Strength of Religious Ideology and Tribal Structures Decreasing 
+Strength of Religious Ideology and Tribal Structures Increasing 
+Sweep Ops Clear Decreasing 
+Sweep Ops Clear Increasing 
+Targeted Strikes Decreasing 
+Targeted Strikes Increasing 
+Tax Revenues Decreasing 
+Tax Revenues Increasing 
+Terrain Harshness and Breadth Decreasing 
+Terrain Harshness and Breadth Increasing 
+Territory Not Under Govt Control Afghan and Pakistan Decreasing 
+Territory Not Under Govt Control Afghan and Pakistan Increasing 
+Ties to Narcotics and Other Criminal Funding Decreasing 
+Ties to Narcotics and Other Criminal Funding Increasing 
+Total Security Force Capacity and Focus Decreasing 
+Total Security Force Capacity and Focus Increasing 
+Transparency of Govt Processes and Investments Decreasing 
+Transparency of Govt Processes and Investments Increasing 
+US Domestic Perceived Cost and Benefit and Support Decreasing 
+US Domestic Perceived Cost and Benefit and Support Increasing 
+US Domestic and Intl Strategic Communication and Diplomacy Decreasing 
+US Domestic and Intl Strategic Communication and Diplomacy Increasing 
+US Govt Support for Operation Decreasing 
+US Govt Support for Operation Increasing 
+Visible Gains In Security Services and Employment Decreasing 
+Visible Gains In Security Services and Employment Increasing 
+Western Affiliation Backlash Decreasing 
+Western Affiliation Backlash Increasing 
